@@ -9,6 +9,14 @@ An AI-powered analytics tool that converts plain English questions into SQL quer
 
 ---
 
+![App Screenshot](assets/T1.png)
+
+![App Screenshot](assets/T2.png)
+
+![App Screenshot](assets/T3.png)
+
+---
+
 ## 💡 What It Does
 
 Type a question like:
