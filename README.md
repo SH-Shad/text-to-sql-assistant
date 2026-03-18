@@ -172,5 +172,5 @@ The system prompt is built dynamically on every query:
 
 ## 👤 Author
 
-**Sajid** · Information Systems · University of Texas at Arlington  
+**Md Sajid Hossain Sad** · Information Systems · University of Texas at Arlington  
 GPA: 3.8 · Expected Graduation: May 2029
